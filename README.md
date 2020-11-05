@@ -1,8 +1,6 @@
 ### Hi there, Welcome to my Github page 
 
-### Currently working on: 
-[Unity Presets](https://github.com/MarcelvanDuijnDev/UnityPresets) <br />
-[Unity PresetsHDRP](https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP)
+##### Currently working on a unity project: [Unity Presets](https://github.com/MarcelvanDuijnDev/UnityPresets)(uses default renderer) [Unity PresetsHDRP](https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP)(uses hdrp)
 ---
 
 ### Github Stats and activity: <br>
