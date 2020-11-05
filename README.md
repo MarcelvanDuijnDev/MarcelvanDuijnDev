@@ -7,7 +7,7 @@
   <!--START_SECTION:activity-->
 </details>
 
-
+<br>
 Social Info: 
 [Portfolio](https://www.marcelvanduijn.com/)
 [Twitter](https://twitter.com/MarcelvanDuijn_)
