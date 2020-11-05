@@ -1,4 +1,6 @@
-### Hi there, Welcome to my Github page ![GitHub followers](https://img.shields.io/github/followers/MarcelvanDuijnDev?label=Follow&style=social) 
+### Hi there, Welcome to my Github page 
+
+![GitHub followers](https://img.shields.io/github/followers/MarcelvanDuijnDev?label=Follow&style=social) 
 
 ### Github Stats and activity: <br>
 <img align="left" src="https://github-readme-stats.marcelvanduijndev.vercel.app/api?username=MarcelvanDuijnDev&show_icons=true&hide_border=true" />
