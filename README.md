@@ -2,6 +2,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/MarcelvanDuijnDev?label=Follow&style=social) 
 
+Currently working on: 
+
+---
+
 ### Github Stats and activity: <br>
 <img align="left" src="https://github-readme-stats.marcelvanduijndev.vercel.app/api?username=MarcelvanDuijnDev&show_icons=true&hide_border=true" />
 <!--START_SECTION:activity-->
@@ -21,6 +25,7 @@
 [<img align="left" alt="MarcelvanDuijnDev | ArtStation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/artstation.svg" />](https://www.artstation.com/marcelvanduijn)
 
 <br /><br /><br /><br /><br />
+---
 
 ### spotify playing 🎧
 [![Spotify](https://novatorem.marcelvanduijndev.vercel.app/api/spotify)](https://open.spotify.com/user/marcel_van_duijn)
