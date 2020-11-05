@@ -1,7 +1,5 @@
 ### Hi there, Welcome to my Github page 
 
-![GitHub followers](https://img.shields.io/github/followers/MarcelvanDuijnDev?label=Follow&style=social) 
-
 Currently working on: 
 
 [Unity Presets](https://github.com/MarcelvanDuijnDev/UnityPresets) <br />
