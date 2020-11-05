@@ -18,8 +18,8 @@ Other:
 [Instagram](https://www.instagram.com/marcelvanduijn_/)
 
 [<img align="left" alt="UCifUu8rDfr-ljsMx8bUVGrg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCifUu8rDfr-ljsMx8bUVGrg)
-[<img align="left" alt="marcel-van-duijn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="marcelvanduijn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="marcel-van-duijn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/marcel-van-duijn/)
+[<img align="left" alt="marcelvanduijn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/marcelvanduijn_/)
 
 ### spotify playing 🎧
 [![Spotify](https://novatorem.marcelvanduijndev.vercel.app/api/spotify)](https://open.spotify.com/user/marcel_van_duijn)
