@@ -1,13 +1,15 @@
 ### Hi there, Welcome to my Github page
 
 
-Github Stats and activity: <br>
+### Github Stats and activity: <br>
 <img align="left" src="https://github-readme-stats.marcelvanduijndev.vercel.app/api?username=MarcelvanDuijnDev&show_icons=true&hide_border=true" />
 <!--START_SECTION:activity-->
 
-
 <!--END_SECTION:activity-->
 
+
+### spotify playing 🎧
+[![Spotify](https://novatorem.marcelvanduijndev.vercel.app/api/spotify)](https://open.spotify.com/user/marcel_van_duijn)
 
 Social Info: 
 [Portfolio](https://www.marcelvanduijn.com/)
