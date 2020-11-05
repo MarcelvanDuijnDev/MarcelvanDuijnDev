@@ -6,7 +6,7 @@
 ---
 
 ### Github Stats and activity: <br>
-<img align="left" src="https://github-readme-stats.marcelvanduijndev.vercel.app/api?username=MarcelvanDuijnDev&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.marcelvanduijndev.vercel.app/api?username=MarcelvanDuijnDev&show_icons=true&include_all_commits=true&theme=radical" />
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
