@@ -1,4 +1,8 @@
 ### Hi there 👋
 
-Social:
-![Twitter Follow](https://img.shields.io/twitter/follow/MarcelvanDuijn_?logo=twitter&style=for-the-badge)
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  
+  <img align="left" src="https://github-readme-stats.marcelvanduijndev.vercel.app/api?username=MarcelvanDuijnDev&show_icons=true&hide_border=true" />
+</details>
