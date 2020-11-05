@@ -5,6 +5,7 @@
   <summary>Github Stats and activity</summary>
   <img align="left" src="https://github-readme-stats.marcelvanduijndev.vercel.app/api?username=MarcelvanDuijnDev&show_icons=true&hide_border=true" />
   <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 
 Social Info: 
