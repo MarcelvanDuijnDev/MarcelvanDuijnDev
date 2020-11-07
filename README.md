@@ -1,6 +1,8 @@
 ### Hi there, Welcome to my Github page 
 
+<a href="https://github.com/MarcelvanDuijnDev">
 <img align="center" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/GithubProfileReadmiImage.jpg">
+</a>
 
 ### Currently working on a unity project: [Unity Presets](https://github.com/MarcelvanDuijnDev/UnityPresets)(uses default renderer) [Unity PresetsHDRP](https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP)(uses hdrp)
 ---
