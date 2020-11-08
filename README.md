@@ -29,7 +29,7 @@
 [<img align="left" alt="MarcelvanDuijnDev | Sketchfab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sketchfab.svg" />](https://sketchfab.com/MarcelvanDuijn)
 [<img align="left" alt="MarcelvanDuijnDev | ArtStation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/artstation.svg" />](https://www.artstation.com/marcelvanduijn)
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 ---
 
 ### spotify playing 🎧
