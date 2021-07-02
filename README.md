@@ -5,7 +5,7 @@
 </a>
 
 ## Currently working on: 
-##### [Unity Presets](https://github.com/MarcelvanDuijnDev/UnityPresets)(uses default render pipeline) [Unity PresetsHDRP](https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP)(uses high definition render pipeline)
+##### [Unity Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/UnityPresets)(uses default render pipeline) [UnityHDRP Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP)(uses high definition render pipeline)
 ##### [Current projects (website)](https://www.marcelvanduijn.com/unity3d/unity3d-current-projects/)
 ---
 
@@ -13,6 +13,7 @@
 <a href="https://github.com/MarcelvanDuijnDev">
 <img align="left" src="https://github-readme-stats.marcelvanduijndev.vercel.app/api?username=MarcelvanDuijnDev&show_icons=true&include_all_commits=true&theme=radical" />
 </a>
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
