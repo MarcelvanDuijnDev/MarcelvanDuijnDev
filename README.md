@@ -41,3 +41,5 @@
 
 # Currently working on:
 <a href="https://github.com/MarcelvanDuijnDev/UnityPresets"><img align="center" width="48%" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/ProjectButton_UnityPresets.png"></a> 	&nbsp; 	&nbsp; 	&nbsp; <a href="https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP"><img align="center" width="48%" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/ProjectButton_UnityPresetsHDRP.png"></a>
+
+<a href="https://github.com/MarcelvanDuijnDev/3DModels"><img align="center" width="48%" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/ProjectButton_3DModels.png"></a> 	&nbsp; 	&nbsp; 	&nbsp; <a href="https://github.com/MarcelvanDuijnDev/Pandemic-Simulation"><img align="center" width="48%" src="https://github.com/MarcelvanDuijnDev/MarcelvanDuijnDev/blob/main/Images/ProjectButton_PandemicSimulation.png?raw=true"></a>
