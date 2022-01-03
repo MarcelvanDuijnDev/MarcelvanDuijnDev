@@ -11,7 +11,7 @@
 
 ### Github Stats and activity: <br>
 <a href="https://github.com/MarcelvanDuijnDev">
-<img align="left" src="https://github-readme-stats.marcelvanduijndev.vercel.app/api?username=MarcelvanDuijnDev&show_icons=true&include_all_commits=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MarcelvanDuijnDev&theme=dark&show_icons=true" />
 </a>
 
 <!--START_SECTION:activity-->
