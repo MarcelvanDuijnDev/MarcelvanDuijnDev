@@ -5,7 +5,8 @@
 </a>
 
 ## Currently working on: 
-##### [Unity Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/UnityPresets)(uses default render pipeline) [UnityHDRP Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP)(uses high definition render pipeline)
+##### [Unity Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/UnityPresets)(uses default render pipeline) [UnityHDRP Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP)(uses high definition render pipeline) 
+##### [Unity Presets Scripts Only](https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly)(scripts only)
 ##### [Gists](https://gist.github.com/MarcelvanDuijnDev)
 ##### [Current projects (website)](https://www.marcelvanduijn.com/unity3d/unity3d-current-projects/)
 ---
@@ -41,4 +42,4 @@
 # Currently working on:
 <a href="https://github.com/MarcelvanDuijnDev/UnityPresets"><img align="center" width="48%" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/ProjectButton_UnityPresets.png"></a> 	&nbsp; 	&nbsp; 	&nbsp; <a href="https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP"><img align="center" width="48%" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/ProjectButton_UnityPresetsHDRP.png"></a>
 
-<a href="https://github.com/MarcelvanDuijnDev/3DModels"><img align="center" width="48%" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/ProjectButton_3DModels.png"></a> 	&nbsp; 	&nbsp; 	&nbsp; <a href="https://github.com/MarcelvanDuijnDev/Pandemic-Simulation"><img align="center" width="48%" src="https://github.com/MarcelvanDuijnDev/MarcelvanDuijnDev/blob/main/Images/ProjectButton_PandemicSimulation.png?raw=true"></a>
+<a href="https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly"><img align="center" width="48%" src="https://github.com/MarcelvanDuijnDev/MarcelvanDuijnDev/blob/main/Images/ProjectButton_UnityPresetsScriptsOnly.png?raw=true"></a> 	&nbsp; 	&nbsp; 	&nbsp; <a href="https://github.com/MarcelvanDuijnDev/3DModels"><img align="center" width="48%" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/ProjectButton_3DModels.png"></a>
