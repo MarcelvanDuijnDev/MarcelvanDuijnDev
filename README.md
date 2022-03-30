@@ -10,7 +10,7 @@
 - [Unity Presets Scripts Only](https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly)(scripts only) 
 - [Unity Builds](https://github.com/MarcelvanDuijnDev/Unity_Builds)(demos/prototypes)
 - [Gists](https://gist.github.com/MarcelvanDuijnDev)
-- [Current projects (website)](https://www.marcelvanduijn.com/unity3d/unity3d-current-projects/)
+- <a href="https://www.marcelvanduijn.com/" target="_blank">Website</a>
 ---
 
 ### Github Stats and activity: <br>
