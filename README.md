@@ -11,7 +11,7 @@
 - [Unity Builds](https://github.com/MarcelvanDuijnDev/Unity_Builds)(demos/prototypes)
 - [Gists](https://gist.github.com/MarcelvanDuijnDev)
 - <a href="https://www.marcelvanduijn.com/" target="_blank">Website</a>
-- <a href="https://marcelvanduijndev.github.io/MarcelvanDuijn.github.io/" target="_blank">Github Website</a>
+- <a href="https://marcelvanduijndev.github.io/Website/" target="_blank">Github Website</a>
 ---
 
 ### Github Stats and activity: <br>
