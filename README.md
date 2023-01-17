@@ -11,7 +11,7 @@
 - [Unity Builds](https://github.com/MarcelvanDuijnDev/Unity_Builds)(demos/prototypes)
 - [Gists](https://gist.github.com/MarcelvanDuijnDev)
 - <a href="https://www.marcelvanduijn.com/" target="_blank">Website</a>
-- [AI-CheatSheet](https://github.com/MarcelvanDuijnDev/AI-CheatSheet)
+- [AI-HUB](https://github.com/MarcelvanDuijnDev/AI-HUB)
 ---
 
 ### Github Stats and activity: <br>
