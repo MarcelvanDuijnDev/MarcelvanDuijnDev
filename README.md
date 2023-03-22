@@ -12,7 +12,7 @@
 - [Gists](https://gist.github.com/MarcelvanDuijnDev)
 - <a href="https://www.marcelvanduijn.com/" target="_blank">Website</a>
 - [AI-HUB](https://github.com/MarcelvanDuijnDev/AI-HUB)
-- [Cannon Climbing](https://store.steampowered.com/app/2257800/Cannon_Climbing/)(steam game/_coming soon_)
+- [Cannon Climbing](https://store.steampowered.com/app/2257800/Cannon_Climbing/)(_whislist now on steam!_)
 ---
 
 ### Github Stats and activity: <br>
