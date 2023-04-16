@@ -11,6 +11,7 @@
 - [Unity Builds](https://github.com/MarcelvanDuijnDev/Unity_Builds)(demos/prototypes)
 - [Gists](https://gist.github.com/MarcelvanDuijnDev)
 - <a href="https://www.marcelvanduijn.com/" target="_blank">Website</a>
+- <a href="https://marcelvanduijndev.github.io/Website/index.html" target="_blank">New Website</a>(Github Website)
 - [AI-HUB](https://github.com/MarcelvanDuijnDev/AI-HUB)
 - [Cannon Climbing](https://store.steampowered.com/app/2257800/Cannon_Climbing/)(_whislist now on steam!_)
 ---
