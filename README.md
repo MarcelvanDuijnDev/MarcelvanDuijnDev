@@ -9,8 +9,7 @@
 - [UnityHDRP Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP)(uses high definition render pipeline) 
 - [Unity Presets Scripts Only](https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly)(scripts only) 
 - [Unity Builds](https://github.com/MarcelvanDuijnDev/Unity_Builds)(demos/prototypes)
-- <a href="https://marcelvanduijndev.github.io/Website/index.html" target="_blank">New Website</a>(Github Website/[Repo](https://github.com/MarcelvanDuijnDev/Website))
-- <a href="https://www.marcelvanduijn.com/" target="_blank">Website</a>
+- <a href="https://marcelvanduijndev.github.io/Website/index.html" target="_blank">Website</a>([Repo](https://github.com/MarcelvanDuijnDev/Website))
 - [Gists](https://gist.github.com/MarcelvanDuijnDev)
 - [Cannon Climbing](https://store.steampowered.com/app/2257800/Cannon_Climbing/)(_whislist now on steam!_)
 ---
@@ -23,10 +22,10 @@
 <!--END_SECTION:activity-->
 
 ### Social Info: 
-[![Website](https://img.shields.io/website?label=marcelvanduijn.com&style=for-the-badge&url=https%3A%2F%2Fmarcelvanduijn.com)](https://marcelvanduijn.com)
+[![Website](https://img.shields.io/website?label=marcelvanduijn.com&style=for-the-badge&url=https%3A%2F%2Fmarcelvanduijn.com)](https://marcelvanduijndev.github.io/Website/index.html)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MarcelvanDuijn_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MarcelvanDuijn_)
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.marcelvanduijn.com/)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://marcelvanduijndev.github.io/Website/index.html)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MarcelvanDuijn_)
 [<img align="left" alt="MarcelvanDuijnDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCifUu8rDfr-ljsMx8bUVGrg)
 [<img align="left" alt="MarcelvanDuijnDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/marcel-van-duijn/)
