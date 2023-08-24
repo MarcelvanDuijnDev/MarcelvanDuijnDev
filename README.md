@@ -18,8 +18,8 @@
 - [Cannon Climbing ](https://store.steampowered.com/app/2257800/Cannon_Climbing/)_(Game Made By Me! Whislist now on Steam!)_
 ---
 
-### Github Stats and activity: <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelvanDuijnDev&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
+<!--### Github Stats and activity: <br>-->
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelvanDuijnDev&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)-->
 
 <!--START_SECTION:activity-->
 
