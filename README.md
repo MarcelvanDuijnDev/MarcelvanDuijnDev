@@ -6,15 +6,12 @@
 
 ## My Work: 
 - [Digital Creation Library ](https://github.com/MarcelvanDuijnDev/Digital_Creation_Library)_(copyright free / files made by me)_
-- 
 - [Unity Presets Scripts and Tools ](https://github.com/MarcelvanDuijnDev/UnityPresets)_(free unity scripts / art / tools)_
 - [Unity Presets Scripts and Tools ](https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly)_(scripts only)_
 - [Unity Builds ](https://github.com/MarcelvanDuijnDev/Unity_Builds)_(demos / prototypes)_
 - [Gists ](https://gist.github.com/MarcelvanDuijnDev)
-- 
 - <a href="https://marcelvanduijndev.github.io/Website/index.html" target="_blank">My Website</a> _([Repo](https://github.com/MarcelvanDuijnDev/Website))_
 - [Free Website Template ](https://github.com/MarcelvanDuijnDev/Website-Template)
--
 - [Cannon Climbing ](https://store.steampowered.com/app/2257800/Cannon_Climbing/)_(Game Made By Me! Whislist now on Steam!)_
 ---
 
