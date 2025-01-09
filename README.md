@@ -6,7 +6,7 @@
 
 ## My Work: 
 - [Digital Creation Library ](https://github.com/MarcelvanDuijnDev/Digital_Creation_Library)_(copyright free / files made by me)_
-- [MVD.AI](https://github.com/MarcelvanDuijnDev/MVD.AI)_(AI management hub that connects a variety of AI services)_
+- [MVD.AI ](https://github.com/MarcelvanDuijnDev/MVD.AI)_(AI management hub that connects a variety of AI services)_
 - 
 - [Unity Presets Scripts and Tools ](https://github.com/MarcelvanDuijnDev/UnityPresets)_(free unity scripts / art / tools)_
 - [Unity Presets Scripts and Tools ](https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly)_(scripts only)_
