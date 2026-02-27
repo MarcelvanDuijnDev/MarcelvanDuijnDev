@@ -8,12 +8,12 @@
 - [Aethvion.com](https://aethvion.com/)
 
 ### Unity
-- [Unity Presets Scripts and Tools ](https://github.com/MarcelvanDuijnDev/UnityPresets)_(free unity scripts / art / tools)_
-- [Unity Presets Scripts and Tools ](https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly)_(scripts only)_
-- [Unity Builds ](https://github.com/MarcelvanDuijnDev/Unity_Builds)_(demos / prototypes)_
+- [Unity Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/UnityPresets) _(free unity scripts / art / tools)_
+- [Unity Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly) _(scripts only)_
+- [Unity Builds](https://github.com/MarcelvanDuijnDev/Unity_Builds) _(demos / prototypes)_
 
 ### AI
-- [MVD.AI ](https://github.com/MarcelvanDuijnDev/MVD.AI)_(AI management hub that connects a variety of AI services)_
+- [Misaka Cipher](https://github.com/Aethvion/Misaka-Cipher) _(AI management hub that connects a variety of AI services)_
   
 ### My Website
 - <a href="https://marcelvanduijndev.github.io/Website/index.html" target="_blank">My Website</a> _([Repo](https://github.com/MarcelvanDuijnDev/Website))_
@@ -42,16 +42,17 @@
 [<img align="left" alt="MarcelvanDuijnDev | Sketchfab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sketchfab.svg" />](https://sketchfab.com/MarcelvanDuijn)
 [<img align="left" alt="MarcelvanDuijnDev | ArtStation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/artstation.svg" />](https://www.artstation.com/marcelvanduijn)
 
-<br /><br /><br />
+<br/><br/><br/>
 ---
 
 ### spotify playing 🎧
 [![Spotify](https://novatorem.marcelvanduijndev.vercel.app/api/spotify)](https://open.spotify.com/user/marcel_van_duijn)
 
 ---
-<br />
+<br/>
 
 # Currently working on:
-<a href="https://github.com/MarcelvanDuijnDev/UnityPresets"><img align="center" width="48%" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/ProjectButton_UnityPresets.png"></a> 	&nbsp; 	&nbsp; 	&nbsp; <a href="https://github.com/MarcelvanDuijnDev/UnityPresetsHDRP"><img align="center" width="48%" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/ProjectButton_UnityPresetsHDRP.png"></a>
 
-<a href="https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly"><img align="center" width="48%" src="https://github.com/MarcelvanDuijnDev/MarcelvanDuijnDev/blob/main/Images/ProjectButton_UnityPresetsScriptsOnly.png?raw=true"></a> 	&nbsp; 	&nbsp; 	&nbsp; <a href="https://github.com/MarcelvanDuijnDev/3DModels"><img align="center" width="48%" src="https://raw.githubusercontent.com/MarcelvanDuijnDev/MarcelvanDuijnDev/main/Images/ProjectButton_3DModels.png"></a>
+[https://github.com/Aethvion/Misaka-Cipher](https://github.com/Aethvion/Misaka-Cipher)
+
+and Multiple Games
