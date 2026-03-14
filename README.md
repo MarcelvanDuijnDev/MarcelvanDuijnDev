@@ -12,8 +12,8 @@
 - [Unity Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly) _(scripts only)_
 - [Unity Builds](https://github.com/MarcelvanDuijnDev/Unity_Builds) _(demos / prototypes)_
 
-### AI
-- [Misaka Cipher](https://github.com/Aethvion/Misaka-Cipher) _(AI management hub that connects a variety of AI services)_
+### Aethvion Suite - A Collection of Software made by Aethvion
+- [Aethvion Suite](https://github.com/Aethvion/Aethvion-Suite) _(AI management hub that connects a variety of AI services + more software apps)_
   
 ### My Website
 - <a href="https://marcelvanduijndev.github.io/Website/index.html" target="_blank">My Website</a> _([Repo](https://github.com/MarcelvanDuijnDev/Website))_
