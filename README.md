@@ -11,18 +11,25 @@
 - [Aethvion Steam Publisher Page](https://store.steampowered.com/publisher/Aethvion)
 - [Aethvion.com](https://aethvion.com/)
 
-### Unity
+## Unity
 - [Unity Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/UnityPresets) _(free unity scripts / art / tools)_
 - [Unity Presets Scripts and Tools](https://github.com/MarcelvanDuijnDev/Unity-Presets-ScriptsOnly) _(scripts only)_
 - [Unity Builds](https://github.com/MarcelvanDuijnDev/Unity_Builds) _(demos / prototypes)_
 
-### Aethvion Suite - A Collection of Software made by Aethvion
-- [Aethvion Suite](https://github.com/Aethvion/Aethvion-Suite) _(AI management hub that connects a variety of AI services + more software apps)_
+## AI & Developer Tools
+### [Aethvion Project Mapper](https://github.com/Aethvion/Aethvion-ProjectMapper)
+Static code analysis + knowledge-graph for AI coding agents.  
+Indexes your codebase once — agents query only what they need.  
+**89–93 % token reduction · MCP stdio · Works with Claude Code, Cursor, Windsurf**
+
+### [Aethvion Suite](https://github.com/Aethvion/Aethvion-Suite)
+Self-hosted AI platform combining cloud models (Gemini, GPT-4o, Claude, Grok)
+with fast local GGUF models — all in one unified, privacy-first dashboard.
   
-### My Website
+## My Website
 - <a href="https://marcelvanduijndev.github.io/Website/index.html" target="_blank">My Website</a> _([Repo](https://github.com/MarcelvanDuijnDev/Website))_
 
-### Other
+## Other
 - [Gists ](https://gist.github.com/MarcelvanDuijnDev)
 - [Free Website Template ](https://github.com/MarcelvanDuijnDev/Website-Template)
 ---
