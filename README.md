@@ -20,7 +20,12 @@
 ### [Aethvion Project Mapper](https://github.com/Aethvion/Aethvion-ProjectMapper)
 Static code analysis + knowledge-graph for AI coding agents.  
 Indexes your codebase once — agents query only what they need.  
-**89–93 % token reduction · MCP stdio · Works with Claude Code, Cursor, Windsurf**
+**87–91% token reduction · MCP stdio · Works with Claude Code, Cursor, Windsurf**
+
+### [AethvionDB](https://github.com/Aethvion/AethvionDB)
+Ultra-fast, embedded graph database optimized for AI tools and local analysis.  
+The high-throughput engine powering Project Mapper's sub-millisecond query performance.  
+**Zero external dependencies · Local-first · Graph & AST optimized**
 
 ### [Aethvion Suite](https://github.com/Aethvion/Aethvion-Suite)
 Self-hosted AI platform combining cloud models (Gemini, GPT-4o, Claude, Grok)
